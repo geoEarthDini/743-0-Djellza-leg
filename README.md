@@ -12,6 +12,6 @@ legalizim
 <!-- * git remote add origin git@github-geoEarth:geoEarthDini/1024-1-1024-5-1024-6.git -->
 <!-- * git push -u origin master  -->
 # pas secilit ndrrim
-<!-- ? git add -A -->
-<!-- ? git commit -m 'lloji i ndrrimit' -->
-<!-- ? git push -->
+? git add -A -->
+? git commit -m 'lloji i ndrrimit'
+<!-- ? git push
