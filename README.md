@@ -15,3 +15,5 @@ git push -u origin master
 ? git add -A 
 ? git commit -m 'lloji i ndrrimit'
  git push
+
+ Në munges të shënime grafike për parcelën 743-5 në të cilën gjindet objekti i rilevuar, janë rilevuar mexhët faktike në terren të përshkruara si në manual!
